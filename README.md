@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nitipon Pongphaw
 =========================================================================================================================================
-
-ML Engineer
------------
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YwdnhpNnc4NHNzZmljN2R4Z3Y0ZHQ5ZW12MXc0aXZueW80bjlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUdPXPkqEZZwWqtSz9/giphy.gif" width="100" height="100" />
+ML Engineer
+
+-----------
+
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [nitipon.p@ku.th](mailto:nitipon.p@ku.th)
 * 🧠  I'm currently learning Graph Neural Networks and SpinalNetwork
